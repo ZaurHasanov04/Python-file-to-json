@@ -6,7 +6,7 @@ from lib import Student
 users=[]
 
 ## funksiyalar yaradib datani json faylina yerlesdirmisem
-## Data adinda dict yaradib icine users(isteye gore vermiyede bilersiz) yazisini verdim
+## Data adinda dict yaradib icine users(isteye gore vermiyede bilersiz) "key"-ni verdim
 data={}
 data['users']=[]
 
